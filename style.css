@@ -1,0 +1,40 @@
+h1{
+	color: #1229d8;
+}
+h2{
+	color: #121dea;
+}
+.c1{
+	
+	border-style: solid;
+	border-color: rgb(3, 142, 249);
+	border-width: 1.5px;
+	border-radius: 5px;
+	padding-left: 6px;
+	background-image: url('./image/bg9.webp');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+body{
+	background-image:url('./image/bg.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+mark{
+	background-color: skyblue;
+}
+.c2{
+	border-width: 1.5px;
+	border-color: royalblue;
+	border-style: solid;
+	border-radius: 5px;
+	background-image:url('./image/bg1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: black;
+	padding-left: 10px;
+
+}
+
+
